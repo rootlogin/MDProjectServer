@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-beans-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-orm-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/logback-classic-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-aop-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-security-web-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-security-taglibs-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-expression-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-context-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/logback-core-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-oxm-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-security-acl-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-web-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-webmvc-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-core-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-jdbc-4.0.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-security-config-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-security-core-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guahao/target/guahao/WEB-INF/lib/spring-tx-4.0.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
